@@ -1,3 +1,3 @@
 # Basic MVC
 
-Writing a basic windows app using MVC arch
+Writing a basic windows app template using MVC archetecture. 
