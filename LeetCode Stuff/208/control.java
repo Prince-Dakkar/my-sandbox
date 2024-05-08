@@ -6,8 +6,6 @@
 //                                             //
 /////////////////////////////////////////////////
 
-package Leety;
-
 class control {
 
     public static void main(String[] args){
